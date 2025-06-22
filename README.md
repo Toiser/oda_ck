@@ -1,4 +1,4 @@
-# MODA_CK: Crisis Companion Q&A Bot
+# ODA_CK: Crisis Companion Q&A Bot
 
 ## Quickstart (under 30 min)
 
